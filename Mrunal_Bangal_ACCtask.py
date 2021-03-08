@@ -11,7 +11,7 @@ file.close()
 
 
 #operation of the lists 
-f_list=[]
+f_list=[]////
 s_list=[]
 for line in  r:
     if "404" in line:
