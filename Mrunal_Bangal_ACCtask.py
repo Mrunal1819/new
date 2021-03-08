@@ -9,7 +9,7 @@ file.seek(0)
 r=file.readlines()
 file.close()
 
-
+#hello i m using git
 #operation of the lists 
 f_list=[]////
 s_list=[]
