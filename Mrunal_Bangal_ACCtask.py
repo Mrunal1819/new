@@ -21,11 +21,11 @@ for line in  r:
         s_list.append(line)
 
 len(f_list)
-len(s_list)
+len(s_list)dgsjhdjshjhsajdhsaj
 s_list
 
 
-
+hjxsbjxbjhsbxhjsb
 #used for finding status codes in the log file
 f_list=[]
 s_list=[]
